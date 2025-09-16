@@ -1,6 +1,6 @@
-📝 Project Title
-Pros & Cons Summary with T5
-
+#📝 Project Title
+**Pros & Cons Summary with T5
+__
 A fine-tuned T5 model for classifying sentences into positive and negative categories and extracting key ideas.
 
 🚀 Getting Started
