@@ -1,4 +1,4 @@
-# 📝 **Pros & Cons Summary with T5**
+# 📝 Pros & Cons Summary with T5
 ---
 A fine-tuned T5 model for classifying sentences into positive and negative categories and extracting key ideas.
 
