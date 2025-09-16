@@ -12,16 +12,16 @@ https://github.com/ShangRay1213/ProsConsSum/tree/main
 
 **✨ Features**
 ---
-Sentence Classification: The model can identify sentences with a positive or negative sentiment.
+* Sentence Classification: The model can identify sentences with a positive or negative sentiment.
 
-Key Idea Extraction: It can summarize the core idea from the classified sentences.
+* Key Idea Extraction: It can summarize the core idea from the classified sentences.
 
-Two-Stage Pipeline: The process uses a two-stage approach for sentiment analysis and summarization.
+* Two-Stage Pipeline: The process uses a two-stage approach for sentiment analysis and summarization.
 
 **🛠️ Technology Stack**
 ---
-Hugging Face transformers: For model training and inference.
+* Hugging Face transformers: For model training and inference.
 
-PyTorch: The deep learning framework.
+* PyTorch: The deep learning framework.
 
-T5 (Text-to-Text Transfer Transformer): The base model architecture.
+* T5 (Text-to-Text Transfer Transformer): The base model architecture.
